@@ -76,7 +76,7 @@ Projemize benzeyen güncel uygulamalar:
 
 ● MeshTalk:
 
-OPPO&#39;nun, 2019&#39;da tanıttığı haberleşme uygulamasıdır. Oppo cihazlarının sinyal
+OPPO'nun, 2019'da tanıttığı haberleşme uygulamasıdır. Oppo cihazlarının sinyal
 
 aralığında olduğu yerlerde kendi aralarında LAN iletişimini destekleyen &#39;MeshTalk&#39;,
 
