@@ -3,13 +3,13 @@
 
 Proje grubu adı: BigLora
 
-Projenin ismi : LoRaChat
+Projenin ismi : LoRaChatt
 
 
 
 # PROJE RAPORU
 
-## **Proje adı:**
+## **Proje adı: LoRaChatt**
 
 
 ## **1 ) Proje Özeti**
