@@ -10,7 +10,7 @@ PROJE RAPORU
 Proje adı:
 
 
-**1 ) Proje Özeti**
+## **1 ) Proje Özeti**
 
 Dünyada İOT (İnternet of Things) teknolojilerinin gelişmesi ile birlikte uzak mesafeye veri aktarımı ve düşük güç tüketimi önemli bir sorun haline gelmiştir. IOT nesnelere, veri gönderimi ve alımı gibi işlevleri kazandıran temel elemanlar sensörlerdir.
 
@@ -39,7 +39,7 @@ Oluşturulması düşünülen bu sistemin başarıyla sonuçlanması durumunda s
 
 **Anahtar Kelimeler:** IOT, LoRa, LoRAWan, İletişim, Güvenlik, Dağıtık haberleşme, Mesafe
 
-**2 ) Amaç ve Hedefler**
+## **2 ) Amaç ve Hedefler**
 
 İnternetsiz mesajlaşma uygulamaları GSM operatörleri ve baz istasyonlarının çalışmadığı, internet hatlarının sorunlu olduğu zamanlarda (afet,savaş gibi durumlarda) haberleşme sekteye uğramaktadır. Buna çözüm olarak üretilen bluetooth teknolojisinin beraberinde getirdiği mesafe problemine Lora entegreli masaüstü mesajlaşma uygulaması ile bir çözüm getirmek amaçlanmaktadır. Sistemimizde hedeflenen ise daha geniş bir alanda kablosuz veri aktarımı yapabilmek ve bu veri aktarımı sırasında
 
@@ -62,7 +62,7 @@ Bu proje kapsamında yer alabilecek konular şunlardır:
 - Peer to Peer ile haberleşme
 - İletişimde Açık Anahtar Kriptografisi(PKC) kullanmak
 
-**3 ) Konu, Kapsam ve Literatür Özeti**
+## **3 ) Konu, Kapsam ve Literatür Özeti**
 
 Projenin konusu internetsiz ortamda kablosuz haberleşme ihtiyacını uzun mesafede
 
@@ -134,9 +134,9 @@ Sistemler arası farklılıklar:
 
 ● Oluşturduğumuz sistemde server olmayacaktır.
 
-**4 ) Yöntem**
+## **4 ) Yöntem**
 
-**4.1 ) Genel Tasarım Aşaması**
+ ### **4.1 ) Genel Tasarım Aşaması**
 
 **4.1.1 ) Sistem Sorunlarının ve Çözümlerinin Belirlenmesi**
 
@@ -166,19 +166,20 @@ Sorun 4 ) Server kullanılmaması :
 ![Requirement](https://user-images.githubusercontent.com/77548130/140867973-ffdbf649-6414-4e09-ac89-db3df50dc13f.png)
 
 
-**4.2 ) Arayüz Tasarım Aşaması**
+### **4.2 ) Arayüz Tasarım Aşaması**
 
-**4.3 ) Test Aşamaları**
+### **4.3 ) Test Aşamaları**
 
-**4.4 ) Teknoloji Dökümantasyonu**
+### **4.4 ) Teknoloji Dökümantasyonu**
 
-**5 ) Proje Yönetimi ve Ekip**
+## **5 ) Proje Yönetimi ve Ekip**
 
-**5.1 ) Proje Yönetimi**
+### **5.1 ) Proje Yönetimi**
 
 **5.1.1 ) Yönetim Düzeni**
 
-![](RackMultipart20211109-4-1klfuwf_html_b7e9ec5f7a335cb7.png)
+![Yönetim Düzeni](https://user-images.githubusercontent.com/77548130/140868087-95252bff-0389-4d19-84f5-86b2764c866d.png)
+
 
 **5.1.2 ) Zaman Yönetimi Çizelgesi**
 
@@ -186,7 +187,8 @@ Sorun 4 ) Server kullanılmaması :
 
 Grup içi notlandırmaya herkese eşit puan (50) vererek başladık. Her hafta grup üyelerinin toplantılara katılmalarına ve verilen görevleri yerine getirmelerine bakılarak üyelere &quot;+&quot; ve &quot;-&quot; verilecektir. Her hafta notlandırma toplantısında artı ve eksiler göz önüne alınarak grup liderinin kararıyla 100 üzerinden verilen, notların ortalaması 50 olacak şekilde bir notlandırma yapılacak ve kişilere bildirilecektir.
 
-![](RackMultipart20211109-4-1klfuwf_html_4b29c9e7252fdae5.png)
+![Grui İçi Notlandırma](https://user-images.githubusercontent.com/77548130/140868151-d245ea51-b482-4550-86e8-8175cfa28b8b.png)
+
 
 **5.1.4 ) Başarı Ölçütleri**
 
