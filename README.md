@@ -3,11 +3,13 @@
 
 Proje grubu adı: BigLora
 
-Projenin ismi :
+Projenin ismi : LoRaChat
 
-PROJE RAPORU
 
-Proje adı:
+
+# PROJE RAPORU
+
+## **Proje adı:**
 
 
 ## **1 ) Proje Özeti**
@@ -194,40 +196,32 @@ Grup içi notlandırmaya herkese eşit puan (50) vererek başladık. Her hafta g
 
                                                     **BAŞARI ÖLÇÜTLERİ TABLOSU (\*)**
 
-| **İP No** | **İş Paketi Hedefi** | **Başarı Ölçütü **** (%, sayı, ifade, vb.) **|** Projenin Başarısındaki Önemi (%)\*\*** |
-| --- | --- | --- | --- |
-|
-| |
-| 1 |   Proje analizi | %100 | 25 |
-| 2 |   Proje tasarımı   | %100 | 20 |
-|     3 |   Kodlama | %100 | 20 |
-|     4 |   Test aşaması | %80 | 15 |
-|     5 |   Dokümantasyon ve Sunum | %80 | 20 |
+| IP No | İş Paketi Hedefi | Başarı Ölçütü (%,sayı,ifade,vb.) | Projenin Başarısındaki Önemi (%) |
+|----------|-----------|---------|-----------|
+| 1 | Proje Analizi | %100 | 25 |
+| 2 | Proje Tasarımı | %100 | 20 |
+| 3 | Kodlama | %100 | 20 |
+| 4 | Test Aşaması | %80 | 15|
+| 5 | Dökümantasyon ve Sunum | %80 | 20|
 
 **5.1.5 ) Risk Yönetimi Tablosu**
 
                                                        **RİSK YÖNETİMİ TABLOSU (\*)**
 
-|
-**İP No** |
-**En Önemli Risk(ler)** |
-**B Planı** |
-| --- | --- | --- |
-|   1 | Kablosuz haberleşme sisteminde biraz gecikme yapılabilir . | Gecikmelerin önüne geçilmesi için birbirinden farklı portlar kullanılacaktır |
-|   2 | Projenin zamanında yetişmemesi.  | Çalışmalar üç gruba ayrıldı ve her grup iki katmana odaklanacak. |
-|   3 | Projenin gereksinimlerine ulaşılamaması ya da performansında düşüklük olması. | Her alt grup görevine odaklanacak ve tüm gereksinimlerii karşılamaya çalışacak |
-|       4  | P2P kullanırken veri akışı tıkanıklığı, güvenlik problemi ya da verinin kaynağının göze çarpan olmaması gibi sorunlar yaşanabilir | Veri akışı tıkanıklığı engellemek için CSMA/CA yöntemi kullanılacak, güvenlik konusunda public key cryptography kullanılacak. |
+| IP No | En Önemli Risk(ler)| B Planı|      
+|-------|--------------------|--------|
+| 1 | Kablosuz haberleşme sisteminde biraz gecikme yapılabilir . | Gecikmelerin önüne geçilmesi için birbirinden farklı portlar kullanılacaktır. |
+| 2 | Projenin zamanında yetişmemesi. | Çalışmalar üç gruba ayrıldı ve her grup iki katmana odaklanacak.|
+| 3 | Projenin gereksinimlerine ulaşılamaması ya da performansında düşüklük olması. | Her alt grup görevine odaklanacak ve tüm gereksinimlerii karşılamaya çalışacak. |
+| 4 | P2P kullanırken veri akışı tıkanıklığı, güvenlik problemi ya da verinin kaynağının göze çarpan olmaması gibi sorunlar yaşanabilir. | Veri akışı tıkanıklığı engellemek için CSMA/CA yöntemi kullanılacak, güvenlik konusunda public key cryptography kullanılacak. |
 
 **Kaynakça:**
 
-[**https://www.aa.com.tr/**](https://www.aa.com.tr/) **tr/sirkethaberleri/bilisim/oppo-ekran-alti-kamera-ve-meshtalk-teknolojil**
 
-**erini-tanitti/651971**
+[**https://www.aa.com.tr/**](https://www.aa.com.tr/) **tr/sirkethaberleri/bilisim/oppo-ekran-alti-kamera-ve-meshtalk-teknolojilerini-tanitti/651971**
 
 **https://bridgefy.me/**
 
 **https://play.google.com/store/apps/details?id=com.raxis.signalapp&amp;hl=tr&amp;gl=US**
 
-**https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=sRGAR8lV6UG9d19rMhf2IQ&amp;no=hH**
-
-**MEgJGV8aruu0AAajVK2A**
+**https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=sRGAR8lV6UG9d19rMhf2IQ&amp;no=hHMEgJGV8aruu0AAajVK2A**
