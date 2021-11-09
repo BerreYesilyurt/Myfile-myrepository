@@ -194,7 +194,7 @@ Grup içi notlandırmaya herkese eşit puan (50) vererek başladık. Her hafta g
 
 **5.1.4 ) Başarı Ölçütleri**
 
-                                                    **BAŞARI ÖLÇÜTLERİ TABLOSU (\*)**
+                                                    BAŞARI ÖLÇÜTLERİ TABLOSU (*)
 
 | IP No | İş Paketi Hedefi | Başarı Ölçütü (%,sayı,ifade,vb.) | Projenin Başarısındaki Önemi (%) |
 |----------|-----------|---------|-----------|
@@ -206,7 +206,7 @@ Grup içi notlandırmaya herkese eşit puan (50) vererek başladık. Her hafta g
 
 **5.1.5 ) Risk Yönetimi Tablosu**
 
-                                                       **RİSK YÖNETİMİ TABLOSU (\*)**
+                                                       RİSK YÖNETİMİ TABLOSU (*)
 
 | IP No | En Önemli Risk(ler)| B Planı|      
 |-------|--------------------|--------|
